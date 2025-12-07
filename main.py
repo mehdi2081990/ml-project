@@ -1,1 +1,2 @@
-print('Hello from Git')
+print("Second change from Git training")
+
